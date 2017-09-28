@@ -1,2 +1,3 @@
 # first-repo
-This will make conflict!
+Repo made fo exercises
+I resolved the conflict!
